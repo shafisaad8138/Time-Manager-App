@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174163305150",
+    "project_id": "time-manager-app-99a99",
+    "storage_bucket": "time-manager-app-99a99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174163305150:android:027e03d2cde672d783f4ef",
+        "android_client_info": {
+          "package_name": "com.aryaa.timemanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Dh26maUzO0FKUdXKcxuCxDdn58CSKHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
